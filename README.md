@@ -13,4 +13,4 @@ Starting from
 4. Encoder
 5. Decoder
 
-![transformer](img/transformer1.PNG)
+![transformer](img/transformer1.png)
