@@ -15,4 +15,5 @@ Starting from
 
 ![transformer](img/transformer1.png)
 
-[Original paper link](https://arxiv.org/abs/1706.03762)
+Original paper link
+[Attenetion Is All You Need](https://arxiv.org/abs/1706.03762)
