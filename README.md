@@ -16,5 +16,6 @@ Starting from
 ![transformer](img/transformer1.png)
 
 References
-[Reference Guide](https://machinelearningmastery.com/)
-[Attenetion Is All You Need](https://arxiv.org/abs/1706.03762)
+
+- [Reference Guide](https://machinelearningmastery.com/)
+- [Attenetion Is All You Need](https://arxiv.org/abs/1706.03762)
